@@ -30,7 +30,7 @@ $ pipenv install
 ```bash
 $ jupyter notebook
 ```
-
+- If you are running the codebase for the first time, run "data_aggregation.ipynb" file. This file will save a binary preprocessed data which is used by most of the notebooks in our repo.
 - Close the server using ```Ctrl + c```
 
 ## Authors
